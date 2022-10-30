@@ -25,17 +25,17 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 3
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 design:
   # Choose a view for the listings:
-  view: citation
+  view: Citation
   columns: '2'
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
