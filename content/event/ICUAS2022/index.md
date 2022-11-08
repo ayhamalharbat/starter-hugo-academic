@@ -2,7 +2,7 @@
 title: Three Fundamental Paradigms for Aerial Physical Interaction Using Nonlinear Model Predictive Control
 
 event: ICUAS 2022
-event_url: https://www.worldclassmaintenance.com/event/airtub-event-crawler-inspection-of-wind-turbine-blades/
+event_url: http://www.uasconferences.com/2022_icuas/
 
 location: Dubrovnik, Croatia
 # address:
