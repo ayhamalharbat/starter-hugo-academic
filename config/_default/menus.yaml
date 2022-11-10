@@ -19,6 +19,17 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Students
+    # url: ''
+    weight: 50
+  - name: List of Students
+    url: 'students/students-list'
+    weight: 10
+    parent: Students
+  - name: Assignments Proposals
+    url: 'students/assignments-proposals'
+    weight: 20
+    parent: Students
   - name: Contact
     url: '#contact'
     weight: 60

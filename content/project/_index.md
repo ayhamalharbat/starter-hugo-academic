@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Projects
 cms_exclude: true
 
 # View.
@@ -13,5 +13,3 @@ header:
   caption: ''
   image: ''
 ---
-
-***
