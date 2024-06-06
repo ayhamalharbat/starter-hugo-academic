@@ -1,6 +1,6 @@
 ---
 title: Ayham Alharbat
-role: Researcher of Aerial Robotics
+role: Robotics Researcher
 bio: My research focuses on Modeling and Control of Aerial Robots in Physical
   Interaction tasks.
 interests:
