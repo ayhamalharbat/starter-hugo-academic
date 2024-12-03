@@ -30,7 +30,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: envelope
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:a.alharbat@saxion.nl'
     label: E-mail Me
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=YG76utkAAAAJ&hl=en
@@ -64,6 +64,5 @@ education:
 
 ## About Me
 
-I am a reseacher and lecturer at the SMART Research Group in Saxion University of Applied Sciences, and a PhD candidate at the Robotics and Mechatronics Lab in the University of Twente. My research focuses on the modelling and control of Aerial Robots for Physical Interaction tasks.
-
-
+I am a reseacher and lecturer at the [Smart Mechatronics and Robotics Research Group](https://www.saxion.nl/onderzoek/lectoraten/smart-mechatronics-and-robotics) in [Saxion University of Applied Sciences](https://www.saxion.edu/)
+  with prof. [Abeje Mersha](https://www.saxion.nl/onderzoek/smart-industry/smart-mechatronics-and-robotics/biography-abeje-mersha), and a PhD candidate at the [Robotics and Mechatronics Lab](https://www.ram.eemcs.utwente.nl/) in the [University of Twente](https://www.utwente.nl/en/), with dr. [Chiara Gabellieri](https://people.utwente.nl/c.gabellieri) and prof. [Antonio Franchi](https://people.utwente.nl/a.franchi). My research focuses on the modelling and control of Aerial Robots for Physical Interaction tasks.
