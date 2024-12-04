@@ -9,8 +9,8 @@ date: '2019-09-01'
 # external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
+  # caption: Photo by rawpixel on Unsplash
+  # focal_point: Smart
 
 links:
   - icon: fa-link

@@ -35,7 +35,7 @@ abstract: Wind turbines are green energy sources that have a great potential in 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Aerial Robotics, Aerial Physical Interaction Control]
+tags: [Aerial Robotics, Aerial Physical Interaction]
 
 # Display this page in the Featured widget?
 featured: true

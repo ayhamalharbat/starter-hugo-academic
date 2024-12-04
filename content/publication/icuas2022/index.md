@@ -37,7 +37,7 @@ abstract: This paper introduces and compares the three most relevant approaches 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Aerial Robotics, Aerial Physical Interaction Control, Model Predective Control]
+tags: [Aerial Robotics, Aerial Physical Interaction, Model Predective Control]
 
 # Display this page in the Featured widget?
 featured: true

@@ -36,7 +36,7 @@ abstract: The use of Multi-Rotor Aerial Vehicles (MRAVs) in tasks that require p
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Aerial Robotics, Aerial Manipulators, Open Source]
+tags: [Aerial Robotics,   Aerial Physical Interaction, Open Source]
 
 # Display this page in the Featured widget?
 featured: true
