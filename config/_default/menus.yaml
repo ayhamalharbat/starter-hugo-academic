@@ -22,9 +22,12 @@ main:
   - name: Projects
     url: '#projects'
     weight: 50
+  - name: Education
+    url: 'education'
+    weight: 52
   - name: Students
-    # url: ''
-    weight: 50
+    url: '/students/students-list'
+    weight: 55
   - name: List of Students
     url: 'students/students-list'
     weight: 10
