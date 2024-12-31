@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: Do not hesitate to contact me for any question or discussion!
 
 content:
   # Automatically link email and phone or display as text?
@@ -25,7 +25,8 @@ content:
   #     captcha: false
 
   # Contact details (edit or remove options as required)
-  email: a.alharbat@saxion.nl
+  # email: a.alharbat@saxion.nl
+  
   # phone: 888 888 88 88
   # address:
   #   street: 450 Serra Mall
@@ -42,7 +43,15 @@ content:
   #   - 'Monday 10:00 to 13:00'
   #   - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
-  # contact_links:
+  contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: Send an email
+      link: mailto:a.alharbat@saxion.nl
+    - icon: linkedin
+      icon_pack: fab
+      name: Send a message
+      link: https://www.linkedin.com/in/ayham-alharbat/
   #   - icon: twitter
   #     icon_pack: fab
   #     name: DM Me
