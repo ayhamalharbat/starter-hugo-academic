@@ -28,7 +28,7 @@ organizations:
     url: https://www.utwente.nl/en/
 education:
   courses:
-    - course: PhD in Aerial Robotics
+    - course: PhD in Robotics
       institution: University of Twente
       year: Ongoing
     - course: MSc in Robotics and Mechatronics
