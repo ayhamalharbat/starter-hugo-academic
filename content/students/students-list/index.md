@@ -6,12 +6,13 @@ show_date: false
 
 ## Current Students
 
-* [Gabriele Ruscelli](https://it.linkedin.com/in/gabriele-ruscelli-903977276)
+* [Mayuresh Pachore](https://www.linkedin.com/in/mayuresh-pachore-88b71018a/), "Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks"
 
 ## Former Students
 
 ### Master Students
 
+* [Gabriele Ruscelli](https://it.linkedin.com/in/gabriele-ruscelli-903977276), "External Wrench Estimation of Aerial Robot Exploiting a Learned Model"
 * [Pantelis Manouselis](https://gr.linkedin.com/in/manouselis), "A Hybrid Aerodynamic-Interference-Aware Model for Multi-Rotor Platforms" 
 * [Rohit Aggarwal](https://nl.linkedin.com/in/rohit-aggarwal710), "Data-driven Modelling and Control of Multi-rotor Aerial Vehicles"
 * [Louis Nelissen](https://nl.linkedin.com/in/louis-nelissen-627934158), "Autonomous trajectory generation of an aerial manipulator in a physical inspection task using visual features"
