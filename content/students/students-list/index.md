@@ -7,6 +7,7 @@ show_date: false
 ## Current Students
 
 * [Mayuresh Pachore](https://www.linkedin.com/in/mayuresh-pachore-88b71018a/), "Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks"
+* [Michele Brusadin](https://www.linkedin.com/in/michele-brusadin/), "RL-based Control of UASs Subject to Significant Disturbances and Vision Constraints"
 
 ## Former Students
 
