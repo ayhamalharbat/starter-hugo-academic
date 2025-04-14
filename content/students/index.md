@@ -1,8 +1,16 @@
 ---
 show_date: false
 ---
+
+
 # List of Supervised Students
 ***
+
+{{% callout note %}}
+I am always open to supervising highly motivated students.
+If you are interested in working with me during your internship, thesis, or research visit at Saxion University or University of Twente:
+Do not hesitate to contact me to discuss the possibilities.
+{{% /callout %}}
 
 ## Current Students
 
@@ -27,7 +35,3 @@ show_date: false
 * [Coen Heerink](https://nl.linkedin.com/in/coen-heerink-a052b9172)
 * Leticia Daniel Roldan
 * [Sigmar van Druten](https://nl.linkedin.com/in/sigmar-van-druten-619143154)
-
-<!-- {{% callout note %}}
-Will follow.
-{{% /callout %}} -->
