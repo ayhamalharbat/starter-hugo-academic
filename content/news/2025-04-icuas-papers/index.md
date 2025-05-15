@@ -33,7 +33,7 @@ tags: []
 featured: true
 
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'First picture shows me and Gabriele Ruscelli at the final day of his internship at SMART/Saxion. Second picture shows Kousheek Chakraborty, Thijs Hof and myslef (left to right) with the first printed draft of our ICUAS paper.'
   focal_point: Center
 
 ---
@@ -42,7 +42,8 @@ image:
 
 The first paper, "[External-Wrench Estimation for Aerial Robots Exploiting a Learned Model](/publication/icuas2025_2)", by Ayham Alharbat, Gabriele Ruscelli, Roberto Diversi, and Abeje Y. Mersha, explores the use of Neural ODEs for modelling residual dynamics of an aerial robot, and proposes an external wrench observer that uses the learned model to estimate the external wrench without the residual wrench, as shown in the block diagram below.
 
-Kudos to my co-first-author and MSc student, Gabriele, for the great work on his MSc thesis 🎉 
+Kudos to my co-first-author and MSc student, Gabriele (in the first picture), for the great work on his MSc thesis 🎉 
 
-The second paper, "[RL-based Control of UAS Subject to Significant Disturbance](/publication/icuas2025_1)", by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS, shown in the picture below.
-I am grateful to my co-authors Kousheek, Thijs, for the great teamwork and contributions throughout.
+The second paper, "[RL-based Control of UAS Subject to Significant Disturbance](/publication/icuas2025_1)", by Kousheek Chakraborty, Thijs Hof, Ayham Alharbat, and Abeje Y. Mersha, proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance, which was inspired by our fire-fighting UAS.
+
+I am grateful to my co-authors Kousheek, Thijs (left to right in the second picture), for the great teamwork and contributions throughout.
