@@ -69,7 +69,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - MARS4Earth
-#   - AeroStream
+  - AeroSTREAM
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
