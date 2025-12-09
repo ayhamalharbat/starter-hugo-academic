@@ -27,7 +27,19 @@ Do not hesitate to contact me to discuss the possibilities.
 
 ***
 
-* [Elmar Cheung](https://nl.linkedin.com/in/elmar-cheung-3b417436a), from [University of Twente](https://www.utwente.nl/): "Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots"
+* [Elmar Cheung](https://nl.linkedin.com/in/elmar-cheung-3b417436a), from [University of Twente](https://www.utwente.nl/): "Human-Robot Interface for Semi-autonomous Inspection and Maintenance with Aerial Robots", (Co-supervised with Camille Buschman)
+
+***
+
+* [Thijs Hof](https://www.linkedin.com/in/thijs-hof-62006b181/), from [University of Twente](https://www.utwente.nl/): "Reinforcement Learning Control of an Aerial Robot in Physical Interaction Tasks", (Co-supervised with Niccolò Botteghi)
+
+***
+
+* [Waleed Elfieky](https://www.linkedin.com/in/waleed-sharkawy/), from [University of Genoa](https://unige.it/en): "Vision-based Motion Planning for Aerial Physical Interaction", (Co-supervised with Benjamin van Manen)
+
+***
+
+* [Ferdi Cakin](https://www.linkedin.com/in/ferdi-cakin-039b4b270/), from [INSA Hauts-de-France](https://www.insa-hautsdefrance.fr/en): "PX4 Implementation of Motion Control for Tiltable Rotors Aerial Robots", (Co-supervised with Kousheek Chakraborty & Youssef Aboudorra)
 
 <br>
 
