@@ -1,13 +1,13 @@
 ---
-title: 'RL-based Control of UAS Subject to Significant Disturbance'
+title: 'ICUAS 2025 - External-Wrench Estimation for Aerial Robots Exploiting a Learned Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - K. Chakraborty
-  - T. Hof
   - A. Alharbat
+  - G. Ruscelli
+  - R. Diversi 
   - A. Mersha
 
 # Author notes (optional)
@@ -28,16 +28,16 @@ date: '2025-04-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-# publication: ICUAS2025_RL
-# publication_short: ICUAS2025_RL
+# publication: ICUAS2024
+# publication_short: ICUAS2024
 
-abstract: This paper proposes a Reinforcement Learning (RL)-based control framework for position and attitude control of an Unmanned Aerial System (UAS) subjected to significant disturbance that can be associated with an uncertain trigger signal. The proposed method learns the relationship between the trigger signal and disturbance force, enabling the system to anticipate and counteract the impending disturbances before they occur. We train and evaluate three policies a baseline policy trained without exposure to the disturbance, a reactive policy trained with the disturbance but without the trigger signal, and a predictive policy that incorporates the trigger signal as an observation and is exposed to the disturbance during training. Our simulation results show that the predictive policy outperforms the other policies by minimizing position deviations through a proactive correction maneuver. This work highlights the potential of integrating predictive cues into RL frameworks to improve UAS performance.
+abstract: This paper presents an external wrench estimator that uses a hybrid dynamics model consisting of a first-principles model and a neural network. This framework addresses one of the limitations of the state-of-the-art model-based wrench observers the wrench estimation of these observers comprises the external wrench (e.g. collision, physical interaction, wind); in addition to residual wrench (e.g. model parameters uncertainty or unmodeled dynamics). This is a problem if these wrench estimations are to be used as wrench feedback to a force controller, for example. In the proposed framework, a neural network is combined with a first-principles model to estimate the residual dynamics arising from unmodeled dynamics and parameters uncertainties, then, the hybrid trained model is used to estimate the external wrench, leading to a wrench estimation that has smaller contributions from the residual dynamics, and affected more by the external wrench. This method is validated with numerical simulations of an aerial robot in different flying scenarios and different types of residual dynamics, and the statistical analysis of the results shows that the wrench estimation error has improved significantly compared to a model-based wrench observer using only a first-principles model.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Aerial Robotics, Reinforcement Learning]
+tags: [Aerial Robotics, Aerial Physical Interaction]
 
 # Display this page in the Featured widget?
 featured: true
@@ -47,14 +47,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2504.08114'
+url_pdf: 'https://arxiv.org/pdf/2504.08156'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/ETapj0mE1kk'
+url_video: 'https://youtu.be/ag-tFXD3h_o'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -70,7 +70,6 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
   - AeroSTREAM
-#   - MARS4Earth
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

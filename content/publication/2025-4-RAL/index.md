@@ -1,21 +1,21 @@
 ---
-title: 'External-Wrench Estimation for Aerial Robots Exploiting a Learned Model'
+title: 'RA-L 2025 - Predictive Admittance Control for Aerial Physical Interaction'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - A. Alharbat
-  - G. Ruscelli
-  - R. Diversi 
+  - C. Gabellieri
   - A. Mersha
+  - A. Franchi
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2025-04-01T00:00:00Z'
+date: '2025-08-29T00:00:00Z'
 # doi: '10.1109/ICUAS54217.2022.9836221'
 
 # Schedule page publish date (NOT publication's date).
@@ -25,36 +25,36 @@ date: '2025-04-01T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-# publication: ICUAS2024
-# publication_short: ICUAS2024
+# publication: ICUAS2025_RL
+# publication_short: ICUAS2025_RL
 
-abstract: This paper presents an external wrench estimator that uses a hybrid dynamics model consisting of a first-principles model and a neural network. This framework addresses one of the limitations of the state-of-the-art model-based wrench observers the wrench estimation of these observers comprises the external wrench (e.g. collision, physical interaction, wind); in addition to residual wrench (e.g. model parameters uncertainty or unmodeled dynamics). This is a problem if these wrench estimations are to be used as wrench feedback to a force controller, for example. In the proposed framework, a neural network is combined with a first-principles model to estimate the residual dynamics arising from unmodeled dynamics and parameters uncertainties, then, the hybrid trained model is used to estimate the external wrench, leading to a wrench estimation that has smaller contributions from the residual dynamics, and affected more by the external wrench. This method is validated with numerical simulations of an aerial robot in different flying scenarios and different types of residual dynamics, and the statistical analysis of the results shows that the wrench estimation error has improved significantly compared to a model-based wrench observer using only a first-principles model.
+abstract: This paper introduces a novel approach for controlling aerial robots during physical interaction by integrating Admittance Control with Nonlinear Model Predictive Control (NMPC). Unlike existing methods, our technique incorporates the desired impedance dynamics directly into the NMPC prediction model, alongside the robot's dynamics. This allows for the explicit prediction of how the robot's impedance will respond to interaction forces within the prediction horizon. Consequently, our controller effectively tracks the desired impedance behavior during physical interaction while seamlessly transitioning to trajectory tracking in free motion, all while consistently respecting actuator constraints. The efficacy of this method is validated through real-time simulations and experiments involving physical interaction tasks with an aerial robot. Our findings demonstrate that, across most scenarios, our method significantly outperforms the state-of-the-art (which does not predict future impedance state), achieving a reduction in tracking error of up to 90\%. Furthermore, the results indicate that our approach enables smoother and safer physical interaction, characterized by reduced oscillations and the absence of the unstable behavior observed with the state-of-the-art method in certain situations.
 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Aerial Robotics, Aerial Physical Interaction]
+tags: [Aerial Robotics, Aerial Physical Interaction, Model Predective Control]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Early Access
+  url: https://ieeexplore.ieee.org/document/11155162
 
-url_pdf: 'https://arxiv.org/pdf/2504.08156'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/ag-tFXD3h_o'
+url_video: 'https://youtu.be/oJJVfXT0mME'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -69,7 +69,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - AeroSTREAM
+  - MAESTRO
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
